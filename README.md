@@ -102,7 +102,7 @@ Maintained clean version control with Git (feature-based commits & tracking)
 ##  Connect With Me
 
 * 📧 Email: [bukkerohithmarthandanaik@gmail.com](mailto:bukkerohithmarthandanaik@gmail.com)
-* 💼 LinkedIn:https://www.linkedin.com/in/rohith-marthanda-naik-bukke-099006309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* 💼 LinkedIn:[https://www.linkedin.com/in/rohith-marthanda-naik-bukke-099006309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/rohit-marthanda-naik-bukke-099006309?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * 💻 GitHub: https://github.com/Rohith20057
 
 ---
